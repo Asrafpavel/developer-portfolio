@@ -301,7 +301,9 @@ margin-bottom: 30px;
     display: flex;
     gap: 100px;
     padding: 130px 100px;
-    margin-top: 130px;
+    margin-top: 130px;git
+    background: #FFF8F3;
+    width: 100%;
     
     
 }
@@ -327,15 +329,11 @@ textarea {
 }
 
 input {
-    height: 64px;
+    height: 50px;
 }
 
 .contact .btn-primary {
     /* margin-top: 40px; */
     width: 150px;
 }
-.contact{
-    max-width: 100%;
-    background: #FFF8F3;
 
-}
